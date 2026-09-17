@@ -2,7 +2,16 @@
 
 void printscreen()
 {
-    // Please write your code here
+   printf("#####\n");
+   printf("#   #\n");
+   printf("#   #\n");
+   printf("#####\n");
+   printf("#   #\n");
+   printf("#   #\n");
+   printf("#   #\n");
+   printf("#   #\n");
+   
+
 }
 
 // DO NOT change the code below

@@ -7,4 +7,6 @@
         }
       },
     "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "cmake.sourceDirectory": "/home/user/Desktop/Lab01/src",
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc-15",
 }
